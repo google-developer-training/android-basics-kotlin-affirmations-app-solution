@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Codelab name**
+**URL of codelab**
 
 
 **In which task and step of the codelab can this issue be found?**
